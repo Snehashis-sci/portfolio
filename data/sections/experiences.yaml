@@ -10,54 +10,47 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
+    name: Softanbees
+    url: "https://softanbees.com/"
+    location: Kolkata, India
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: Softanbees consists of experienced data scientists, software developers and industry (education, energy and many more) specific professionals. The members complement each other due to their diversified background.
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: Growth Hacker
+    start: Aug 2020
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+    - Sales & Marketing,
+    - Arrange batches for bootcamp and thereafter conversion into paid batches.
+    - Marketing material building, Data analysis etc.
 
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+  
 
 - company:
-    name: PreExample Co.
-    url: "https://www.preexample.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    name: Geniousnet Bangladesh
+    url: "http://www.geniousnet.com/"
+    location: Dhaka, Bangladesh
+    overview: Geniousnet Bangladesh maintains sustainable growth since the company started its Internet Service since 2001. We would like to introduce ourselves as a leading & fastest broadband service provider in Bangladesh. We provide total IT solution of Hardware & Software which includes Networking Solutions, Web Design and Multimedia Development. Geniousnet Bangladesh focus is to provide customers with a cost effective Internet solution to establish and maintain a virtual presence on the World Wide Web. 
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: TECHNICAL OFFICER
+    start: May 2017
+    end: April 2018
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Monitoring the network and handling the technical issues.
+    - Managing the support team for technical difficulties and managing the inventory for proper distribution of hardware in case of emergencies.
+    - Building up communication with the clients on a regular basis and evaluating their feedback to ensure the improvement of the services.
 
 - company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.intern.com"
-    location: Intern Land
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    name: Monthly Sciencetech24
+    url: "https://www.facebook.com/Sciencetech24"
+    location: MOhammadpur
+    overview: ScienceTech24, currently one and only science and technology based 24 hours Bengali news portal of Bangladesh.
   positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
+  - designation: Content Creator
+    start: April 2012
+    end: Nov 2012
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Creating science related content for the monthly magazine.
+    

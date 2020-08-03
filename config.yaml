@@ -1,4 +1,4 @@
-baseURL: http://example.org/
+baseURL: https://snehashis.netlify.app/
 languageCode: en-us
 title: "Toha"
 theme: "toha"
@@ -38,7 +38,7 @@ params:
     inverted: /assets/images/inverted-logo.png
 
   # GitHub repo URL of your site
-  gitRepo: https://github.com/hossainemruz/toha-example-site
+  gitRepo: https://github.com/Snehashis-sci/portfolio
 
   # specify whether you want to write blog post or not
   enableBlogPost: true
@@ -59,15 +59,15 @@ params:
 
   # some information about you
   author:
-    name: "Jane Doe"
-    nickname: "Jane"
+    name: "Snehashis Debnath"
+    nickname: "Snehashis"
     image: "images/avatar.png"
     # give your some contact information. they will be used in the footer
     contactInfo:
-      email: "janedoe@example.com"
-      phone: "+0123456789"
+      email: "rupam.sdnath@gmail.com"
+      phone: "+8801755591718"
     # a summary of what you do
     summary:
-    - I am a Developer
-    - I work with Go
+    - I am a Data Scientist
+    - I work for the people
     - I love to work with some fun projects
