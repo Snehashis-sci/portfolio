@@ -2,3 +2,4 @@ theme = "toha"
 baseURL = "https://snehashis.netlify.app/"
 languageCode = "en-us"
 title = "Snehashis Debnath"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
